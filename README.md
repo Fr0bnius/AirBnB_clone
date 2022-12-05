@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
-</p>
+</p> -->
 
 # Description of the project
 The Airbnb clone project for which we are creating a copy of the Airbnb. Only some features will be implemented and will be listed below once completed.
